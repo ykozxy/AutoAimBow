@@ -1,0 +1,10 @@
+[{
+  "modid": "autoaim",
+  "name": "Auto Aim",
+  "description": "Auto aim the mobs around you when using bow",
+  "version": "1.0.0",
+  "mcversion": "1.12.2",
+  "authorList": [
+    "ykozxy"
+  ]
+}]
